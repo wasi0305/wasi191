@@ -1,0 +1,156 @@
+{
+    "select_language": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 - Please choose your preferred language.\r\n\r\n🇮🇷 - لطفا زبان موردنظرتان را انتخاب کنید.",
+    "wrong_language": "⚠️ Please just choose your language from the options below !\r\n\r\n⚠️ لطفا فقط از گزینه های زیر زبان خود را انتخاب کنید !",
+    "start": {
+        "fa": "🎊 سلام، به ربات دریافت اکانت خوش آمدید!\r\n\r\n👈 برای شروع شماره اکانت مجازی موردنظر را ارسال کنیدو یا جهت دریافت راهنما /help را ارسال نمایید.",
+        "en": "🎊 Hello, welcome to the account receiving bot!!\r\n\r\n👉 To start, send the desired virtual account number or send /help to get help."
+    },
+    "cancel": {
+        "fa": "❎ عملیات لغو شد!\r\n\r\nبرای ادامه شماره اکانت مجازی موردنظر را ارسال کنید و یا جهت دریافت راهنما /help را ارسال نمایید.",
+        "en": "❎ The operation was canceled!\r\n\r\nTo continue, send the desired virtual account number or send /help to get help."
+    },
+    "bot_off": {
+        "fa": "ربات در حال حاضر خاموش شده است.",
+        "en": "bot is offline."
+    },
+    "join_channel": {
+        "fa": "📢 برای استفاده از ربات ابتدا باید در کانال های زیر عضو شوید :↓\r\n\r\n{}\r\n\r\n✅ بعد از عضویت در کانال های بالا، ربات را مجددا /start کنید.",
+        "en": "📢 To use the robot, you must first join the following channels: ↓\r\n\r\n{}\r\n\r\n✅ After joining the above channels, /start the bot again."
+    },
+    "help": {
+        "fa": "راهنما\r\n\r\n..",
+        "en": "help test"
+    },
+    "rule": {
+        "fa": "قوانین ربات",
+        "en": "bot rule"
+    },
+    "wait": {
+        "fa": "♻️ در حال پردازش، منتظر باشید …",
+        "en": "♻️ Processing, please wait..."
+    },
+    "regon_error": {
+        "fa": "⚠️ خطا ، کشوری با این رنج در ربات قابل ثبت نیست !",
+        "en": "⚠️ Error, a country with this suffering cannot be registered in the bot!"
+    },
+    "capacity_full_error": {
+        "fa": "⚠️ خطا ، ظرفیت این رنج به اتمام رسیده است !",
+        "en": "⚠️ Error, the capacity of this suffering has been exhausted!"
+    },
+    "receive_off": {
+        "fa": "⚠️ ربات در حال حاضر قادر به دریافت شماره نیست!",
+        "en": "⚠️ The bot is currently not able to receive the number!"
+    },
+    "no_country_active": {
+        "fa": "⚠️ هیچ کشور مجاز برای ارسال وجود ندارد !",
+        "en": "⚠️ There is no authorized country to send!"
+    },
+    "send_code": {
+        "fa": "🔢 کد ارسال شده به شماره <code>{}</code> را وارد کنید\r\n\r\n/cancel",
+        "en": "🔢 Enter the code sent to <code>{}</code>\r\n\r\n/cancel"
+    },
+    "send_password": {
+        "fa": "🔑 رمز دو مرحله ای شماره <code>{}</code> را وارد کنید\r\n\r\n/cancel",
+        "en": "🔑 Enter the two-step code number <code>{}</code>\r\n\r\n/cancel"
+    },
+    "already_account": {
+        "fa": "⚠️ این اکانت قبلا به ربات اضافه شده است!",
+        "en": "⚠️ This account has already been added to the bot!"
+    },
+    "try_again": {
+        "fa": "⚠️ خطای رخ داده است، دوباره تلاش کنید...",
+        "en": "⚠️ An error occurred, try again..."
+    },
+    "account_invalid": {
+        "fa": "⚠️ شماره ارسال شده شما نامعتبر است!",
+        "en": "⚠️ Your sent number is invalid!"
+    },
+    "account_ban": {
+        "fa": "🚫 شماره ارسال شده شما مسدود شده است!\r\n\r\n/cancel",
+        "en": "🚫 Your sent number has been blocked!\r\n\r\n/cancel"
+    },
+    "account_limit": {
+        "fa": "⚠️ خطا ، شماره ارسال شده به مدت <code>{}</code> محدود شده است",
+        "en": "⚠️ Error, the sent number is limited to <code>{}</code>"
+    },
+    "account_code_invalid": {
+        "fa": "⚠️ خطا ، کد ارسال شده نادرست است\r\n\r\n/cancel",
+        "en": "⚠️ Error, the code sent is incorrect\r\n\r\n/cancel"
+    },
+    "account_code_expired": {
+        "fa": "⚠️ کد ارسال شده شما منقضی شده است!\r\n\r\n/cancel",
+        "en": "⚠️ Your sent code has expired!\r\n\r\n/cancel"
+    },
+    "account_2fa_invalid": {
+        "fa": "⚠️ خطا ، رمز دو مرحله ای ارسال شده نادرست است\r\n\r\n/cancel",
+        "en": "⚠️ Error, the two-step password sent is incorrect\r\n\r\n/cancel"
+    },
+    "account_received": {
+        "fa": "✅ اکانت شما [ <code>{}</code> با موفقیت دریافت شد.\r\n\r\n🔑 برای تایید نهایی شدن اکانت، بعد از گذشت <code>{}</code> دقیقه بر روی دکمه زیر کلیک کنید.\r\n\r\n⏱ <code>{} - {}</code>",
+        "en": "✅ Your account [ <code>{}</code> ] has been received successfully.\r\n\r\n🔑 To confirm the finalization of the account, after <code>{}</code> minutes, click on the button below.\r\n\r\n⏱ <code>{} - {}</code>"
+    },
+    "confirm_error": {
+        "fa": "⚠️ این اکانت قبلا یک بار تایید شده است.",
+        "en": "⚠️ This account has already been verified once."
+    },
+    "wait_to_confirm": {
+        "fa": "⏱ لطفا {} ثانیه صبر کنید ...",
+        "en": "⏱ Please wait {} seconds..."
+    },
+    "terminate_all_sessions": {
+        "fa": "⚠️ ابتدا سشن های دیگر را خاتمه بدید !",
+        "en": "⚠️ Terminate other sessions first!"
+    },
+    "account_problem": {
+        "fa": "⚠️ اکانت ارسالی شما مسدود شده است یا دارای مشکل است !",
+        "en": "⚠️ Your sending account is blocked or has a problem!"
+    },
+    "account_limited": {
+        "fa": "⚠️ اکانت ارسالی شما محدود است!",
+        "en": "⚠️ Your sending account is limited!"
+    },
+    "success_confirm": {
+        "fa": "✅ اکانت شما با موفقیت تایید شد و ${} به حساب شما افزوده شد.",
+        "en": "✅ Your account has been successfully verified and ${} has been added to your account."
+    },
+    "profile": {
+        "fa": "<b>📊 آمار اطلاعات حساب کاربری شما :</b>\r\n\r\n👈🏻 شناسه کاربری : <code>{}</code>\r\n👈🏻 موجودی قابل برداشت : <code>${}</code>\r\n\r\n⏱ <code>{} - {}</code>",
+        "en": "<b>📊 Statistics of your account information:</b>\r\n\r\n👉🏻 User ID: <code>{}</code>\r\n👉🏻 Balance: <code>${}</code>\r\n\r\n⏱ <code>{} - {}</code>"
+    },
+    "minimum_with_error": {
+        "fa": "⚠️ حداقل مبلغ قابل تسویه ${} است",
+        "en": "⚠️ The minimum amount that can be settled is ${}"
+    },
+    "wallet_not_set": {
+        "fa": "⚠️ آدرس کیف پول شما تنظیم نشده است!",
+        "en": "⚠️ Your wallet address is not set!"
+    },
+    "send_leader_name": {
+        "fa": "👮‍♂️ <b>نام لیدر خود را ارسال کنید:</b>",
+        "en": "👮‍♂️ <b>Send your leader name:</b>"
+    },
+    "leader_name_invalid": {
+        "fa": "<b>⚠️ ورودی اشتباه است !</b>",
+        "en": "<b>⚠️ The input is invalid</b>"
+    },
+    "payment_success_done": {
+        "fa": "✅ عملیات برداشت موجودی شما با مبلغ [ <code>${}</code> ] با موفقیت انجام شد.\r\n\r\n◽️کد سر گروه: <code>{}</code>",
+        "en": "✅ The withdrawal of your balance in the amount of [ <code>${}</code> ] was done successfully.\r\n\r\n◽️Leader name: <code>{}</code>"
+    },
+    "success_withdrawal": {
+        "fa": "✅ درخواست برداشت موجودی شما با موفقیت ثبت شد.\r\n\r\n🔢 کد پیگیری: <code>{}</code>",
+        "en": "✅ Your withdrawal request has been successfully submited.\r\n\r\n🔢 Tracking code: <code>{}</code>"
+    },
+    "send_new_wallet": {
+        "fa": "🔄 جهت تغییر ادرس کیف پول خود لطفا آدرس جدید کیف پول خود را ارسال کنید : \r\n\r\n<b>♻️ کیف پول فعلی : </b>\r\n<code>{}</code>",
+        "en": "🔄 To change your wallet address, please send your new wallet address: \r\n\r\n<b>♻️ Current wallet: </b>\r\n<code>{}</code>"
+    },
+    "success_change_wallet": {
+        "fa": "✅ آدرس کیف پول شما با موفقیت تغییر یافت.",
+        "en": "✅ Your wallet address has been successfully changed."
+    },
+    "wrong_change_wallet": {
+        "fa": "⚠️ آدرس کیف پول ارسالی شما نامعتبر است.",
+        "en": "⚠️ The wallet address you sent is invalid."
+    }
+}

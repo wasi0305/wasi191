@@ -1,0 +1,14 @@
+{
+    "session": "receiver",
+    "domain": "https://domain.com/receiver",
+    "token": "Token",
+    "api_hash": "apihash",
+    "api_id": 1111111,
+    "dev": 5068240372,
+    "admins": [5068240372],
+    "database": {
+        "db_name": "receiver",
+        "db_username": "receiver",
+        "db_password": "receiver_pass"
+    }
+}
